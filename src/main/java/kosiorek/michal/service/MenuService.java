@@ -114,7 +114,6 @@ public class MenuService {
         while (true) {
             try {
                 do {
-                    displayMenu();
                     menu = userDataService.getString("Enter number:", "");
 
                     switch (menu) {
@@ -123,7 +122,7 @@ public class MenuService {
                             editCustomerOption1(customers.get(option - 1));
                             break;
                         case "2":
-                            option = userDataService.getInt("Enter number of customer to edit:");
+                            option = userDataService.getInt("Enter number of customer to delete:");
                             editCustomerOption2(customers.get(option - 1));
                             break;
                         case "3":
