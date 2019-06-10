@@ -1,0 +1,12 @@
+
+osquid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(žˆ‡›øÿÿÿÿ8ü¶ä´£-
+nsquid:CommentedOutCodeLineh"<This block of commented-out lines of code should be removed.(Å³µƒüÿÿÿÿ8¼¹Þå–-
+[squid:UselessImportCheck"8Remove this unused import 'kosiorek.michal.model.Movie'.(¦Ôó^
+nsquid:CommentedOutCodeLineQ"<This block of commented-out lines of code should be removed.(´ƒ´ßýÿÿÿÿ8¥ªú’•-
+esquid:S20955"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ò¡¥¹8óâš‘ž-
+^squid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Œû”–
+_squid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ò¡¥¹
+nsquid:CommentedOutCodeLineX"<This block of commented-out lines of code should be removed.(…°ñûÿÿÿÿ8¨ù’•-
+nsquid:CommentedOutCodeLineo"<This block of commented-out lines of code should be removed.(…°ñûÿÿÿÿ8ÈÅÝå–-
+Fsquid:S1148["#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8‹Ìñ•-
+{squid:S1192M"XDefine a constant instead of duplicating this literal "CUSTOMER OBJECT IS NULL" 3 times.(¤¬Ýåüÿÿÿÿ8ë·ã´£-

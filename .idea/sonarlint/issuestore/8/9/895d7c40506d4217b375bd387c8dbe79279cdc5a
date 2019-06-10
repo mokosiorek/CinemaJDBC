@@ -1,0 +1,74 @@
+
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸ŸŞş8•Î³¢-
+esquid:S1126–"AReplace this if-then-else statement by a single return statement.(ÙÍğ©úÿÿÿÿ8û»¬Ş£-
+esquid:S1126£"AReplace this if-then-else statement by a single return statement.(½¡¦Ÿüÿÿÿÿ8Çâ¶Ş£-
+[
+squid:S106^"9Replace this use of System.out or System.err by a logger.(€¯úşÿÿÿÿ8²‹Å²¢-
+W
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(™›‰‰8•Î³¢-
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿå¨šüÿÿÿÿ8•Î³¢-
+isquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(¼Ë†Â8¢’´¢-
+\
+squid:S106³"9Replace this use of System.out or System.err by a logger.(»¢Èáøÿÿÿÿ8²‹Å²¢-
+W
+squid:S106‘"9Replace this use of System.out or System.err by a logger.(¬ÅşÒ8²‹Å²¢-
+W
+squid:S106 "9Replace this use of System.out or System.err by a logger.(®Ì¨Ñ8¤¦ç³¢-
+[
+squid:S106]"9Replace this use of System.out or System.err by a logger.(ØÑªÇüÿÿÿÿ8²‹Å²¢-
+[
+squid:S106["9Replace this use of System.out or System.err by a logger.(ÍÙÍ÷ÿÿÿÿÿ8²‹Å²¢-
+\
+squid:S106±"9Replace this use of System.out or System.err by a logger.(äÎ©ğşÿÿÿÿ8•Î³¢-
+V
+squid:S106N"9Replace this use of System.out or System.err by a logger.(Ú™ŠĞ8•Î³¢-
+qsquid:S1192%"NDefine a constant instead of duplicating this literal "Enter number:" 3 times.(ÑâÑÁúÿÿÿÿ8¹õ×²¢-
+V
+squid:S106T"9Replace this use of System.out or System.err by a logger.(ÍğìÊ8¹õ×²¢-
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÉÅù¾üÿÿÿÿ8•Î³¢-
+nsquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(¼·¨­şÿÿÿÿ8¢’´¢-
+W
+squid:S106’"9Replace this use of System.out or System.err by a logger.(µõÚÊ8ËÉ²¢-
+W
+squid:S106ª"9Replace this use of System.out or System.err by a logger.(×îåÇ8•Î³¢-
+V
+squid:S106c"9Replace this use of System.out or System.err by a logger.(…Øéû8•Î³¢-
+W
+squid:S106€"9Replace this use of System.out or System.err by a logger.(®Ì¨Ñ8•Î³¢-
+W
+squid:S106š"9Replace this use of System.out or System.err by a logger.(Ú™ŠĞ8¹õ×²¢-
+Šsquid:S1192N"lDefine a constant instead of duplicating this literal "Invalid option in menu. Enter number again." 3 times.(Ú™ŠĞ8¹õ×²¢-
+isquid:CommentedOutCodeLineD"<This block of commented-out lines of code should be removed.(„‘ÿâ8¢’´¢-
+nsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(œ¯¨‰üÿÿÿÿ8¢’´¢-
+W
+squid:S106²"9Replace this use of System.out or System.err by a logger.(ÈßÎ8²‹Å²¢-
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(íÒ¢õ8•Î³¢-
+[
+squid:S106`"9Replace this use of System.out or System.err by a logger.(á‡—°ûÿÿÿÿ8‰öÌİ£-
+isquid:CommentedOutCodeLineG"<This block of commented-out lines of code should be removed.(‰æÅË8¢’´¢-
+V
+squid:S106\"9Replace this use of System.out or System.err by a logger.(®Ú’¡8²‹Å²¢-
+[
+squid:S106_"9Replace this use of System.out or System.err by a logger.(÷ÄÑ­ıÿÿÿÿ8²‹Å²¢-
+V
+squid:S106´"9Replace this use of System.out or System.err by a logger.(ıãâ8²‹Å²¢-
+W
+squid:S106ú"9Replace this use of System.out or System.err by a logger.(Ú™ŠĞ8•Î³¢-
+W
+squid:S106µ"9Replace this use of System.out or System.err by a logger.(µõÚÊ8ËÉ²¢-
+\
+squid:S106Ë"9Replace this use of System.out or System.err by a logger.(ë³ìÄøÿÿÿÿ8õ«àÒ¢-
+fsquid:S1192h"HDefine a constant instead of duplicating this literal "[A-Z ]+" 7 times.(³—á»8•Î³¢-
+squid:S1488¬"`Immediately return this expression instead of assigning it to the temporary variable "customer".(Ÿ¯ˆ…8¦Âü³¢-
+[
+squid:S106K"9Replace this use of System.out or System.err by a logger.(¥Î¯¸ÿÿÿÿÿ8¹õ×²¢-
+\
+squid:S106ü"9Replace this use of System.out or System.err by a logger.(¨ Éçúÿÿÿÿ8ô¦Ú³£-
+V
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(“‹¿¸8²‹Å²¢-
+W
+squid:S106°"9Replace this use of System.out or System.err by a logger.(¦¦ÉŒ8•Î³¢-

@@ -1,0 +1,8 @@
+
+€squid:S1192M"dDefine a constant instead of duplicating this literal "on delete cascade on update cascade" 3 times.(ÊÛ˜ıÿÿÿÿ
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(û”±¦şÿÿÿÿ
+Asquid:S00108m")Either remove or fill this block of code.(”ı¾
+asquid:S11924"JDefine a constant instead of duplicating this literal "not null" 15 times.(ó¸ú
+O
+squid:S106d"9Replace this use of System.out or System.err by a logger.(ìÍ¦‡
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ËÂÁÕ

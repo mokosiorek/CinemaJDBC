@@ -1,0 +1,5 @@
+
+^squid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Œû”–
+^squid:S20954"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ò¡¥¹
+_squid:UselessImportCheck";Remove this unused import 'kosiorek.michal.model.Customer'.(òù˜Í
+Usquid:UselessImportCheck	"1Remove this unused import 'java.math.BigDecimal'.(êêŠ

@@ -1,0 +1,18 @@
+
+7squid:S2129" Remove this "String" constructor(÷Óõ
+@squid:S1068")Remove this unused "EMAIL" private field.(÷Óõ
+O
+squid:S106K"9Replace this use of System.out or System.err by a logger.(¼£‚
+<squid:S2129" Remove this "String" constructor(³“µ¹ÿÿÿÿÿ
+€"squid:ClassVariableVisibilityCheck"RMake mailer a static final constant or non-public and provide accessors if needed.(èäö©
+gsquid:CommentedOutCodeLineE"<This block of commented-out lines of code should be removed.(üèÂ…şÿÿÿÿ
+?squid:S1148M"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Xsquid:S11611":Add the "@Override" annotation above this method signature(‡èú×8·‚“§-
+O
+squid:S106H"9Replace this use of System.out or System.err by a logger.(Ì¼Äú
+<squid:S2129" Remove this "String" constructor(µ¢£ üÿÿÿÿ
+msquid:S1192"VDefine a constant instead of duplicating this literal "mailermk123@gmail.com" 3 times.(å¯ˆé
+7squid:S2129" Remove this "String" constructor(å¯ˆé
+T
+squid:S1067"9Replace this use of System.out or System.err by a logger.(çÁÜûüÿÿÿÿ
+nsquid:S4499*"REnable server identity validation, set "mail.smtp.ssl.checkserveridentity" to true(Óï­ßûÿÿÿÿ

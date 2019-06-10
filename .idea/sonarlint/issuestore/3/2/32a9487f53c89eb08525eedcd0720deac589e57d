@@ -1,0 +1,7 @@
+
+^squid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Œû”–
+Usquid:UselessImportCheck	"1Remove this unused import 'java.math.BigDecimal'.(êêŠ
+ksquid:S2095Œ"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(³ÇŒÅşÿÿÿÿ8èÄ²±£-
+^squid:S20952"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ò¡¥¹
+squid:S1192H"\Define a constant instead of duplicating this literal "LOYALTY CARD OBJECT IS NULL" 3 times.(ÀˆÎ şÿÿÿÿ8˜¦±£-
+[squid:UselessImportCheck"8Remove this unused import 'kosiorek.michal.model.Movie'.(¦Ôó^

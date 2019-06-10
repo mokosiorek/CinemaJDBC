@@ -1,0 +1,37 @@
+{
+  "movies": [
+    {
+      "title": "Star Wars",
+      "genre": "science-fiction",
+      "price": 15.50,
+      "duration": 100,
+      "releaseDate":  {
+        "year": 2019,
+        "month": 3,
+        "day": 12
+      }
+    },
+    {
+      "title": "Star Trek",
+      "genre": "science-fiction",
+      "price": 10.20,
+      "duration": 110,
+      "releaseDate":  {
+        "year": 2019,
+        "month": 4,
+        "day": 20
+      }
+    },
+    {
+      "title": "Aquaman",
+      "genre": "fantasy",
+      "price": 13.70,
+      "duration": 120,
+      "releaseDate":  {
+        "year": 2019,
+        "month": 5,
+        "day": 1
+      }
+    }
+  ]
+}
